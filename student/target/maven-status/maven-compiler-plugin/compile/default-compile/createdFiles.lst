@@ -1,0 +1,7 @@
+id\ac\uin\student\entity\Student.class
+id\ac\uin\student\StudentApplication.class
+id\ac\uin\student\controller\StudentController.class
+id\ac\uin\student\service\StudentService.class
+id\ac\uin\student\service\StudentServiceImpl.class
+id\ac\uin\student\repository\StudentRepository.class
+id\ac\uin\student\exception\StudentNotFoundException.class
